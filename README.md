@@ -1,7 +1,13 @@
 
 <div align="center">
 
-# Hi, I'm Irmak! 👋
+
+<h1 align="center">Hi, I'm Irmak! 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=D98ACB&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Aspiring+Software+Developer;Backend+Development+%26+Cybersecurity;Always+Learning+New+Things" alt="Typing animation" />
+</p>
+
 
 ### Software Engineering Student | Aspiring Software Developer
 
@@ -19,7 +25,8 @@ I'm a Software Engineering student at the University of Europe for Applied Scien
 
 I enjoy building practical applications, solving problems, and improving my skills through hands-on projects.
 
-- 💻 Interested in Backend Development, Cybersecurity & AI
+
+- 💻 Interested in Frontend & Backend Development, Cybersecurity & AI
 - 🌱 Currently learning Git, Software Testing & Clean Code
 - 🚀 Building projects to strengthen my software engineering skills
 - 🎯 Working towards a Software Engineering Internship in Germany
