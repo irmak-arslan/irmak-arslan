@@ -1,12 +1,23 @@
 
 <div align="center">
 
+  <sub>✦ WELCOME TO MY GITHUB ✦</sub>
 
-<h1 align="center">Hi, I'm Irmak! 👋</h1>
+  <h1>Irmak Arslan ✧</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=D98ACB&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Aspiring+Software+Developer;Backend+Development+%26+Cybersecurity;Always+Learning+New+Things" alt="Typing animation" />
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=D98ACB&center=true&vCenter=true&width=520&lines=Software+Engineering+Student;Frontend+%26+Backend+Development;Cybersecurity+%26+AI;Building+One+Project+at+a+Time" alt="Typing animation" />
+
+  <p>
+    <b>Frontend · Backend · Cybersecurity · AI</b>
+  </p>
+
+  <p>
+    <i>Designing, building & learning — one project at a time.</i>
+  </p>
+
+  <p>📍 Berlin, Germany</p>
+
+</div>
 
 
 ### Software Engineering Student | Aspiring Software Developer
